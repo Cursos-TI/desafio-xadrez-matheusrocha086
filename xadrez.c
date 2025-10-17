@@ -26,7 +26,7 @@ int main() {
     // 3. Movimento da RAINHA esquerda (DO-WHILE)
 
     printf("Movimento da RAINHA (para a esquerda):\n");
-    int j = 1;
+    int j = 1; //Coloquei a variável int diferente para dar uma diversificada
     do {
         printf("Casa %d: Esquerda \n", j);
         j++;
